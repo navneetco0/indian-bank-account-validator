@@ -1,0 +1,41 @@
+{
+  "name": "indian-bank-account-validator",
+  "version": "1.0.0",
+  "description": "indian-bank-account-validator can validate account of any indian bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneetco0/indian-bank-account-validator.git"
+  },
+  "keywords": [
+    "bank",
+    "validator",
+    "indian",
+    "bank",
+    "bank",
+    "validator",
+    "account",
+    "validator",
+    "indian",
+    "account",
+    "validator",
+    "india",
+    "bank",
+    "account",
+    "bank",
+    "validator",
+    "account",
+    "validate",
+    "india",
+    "check"
+  ],
+  "author": "navneetco0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navneetco0/indian-bank-account-validator/issues"
+  },
+  "homepage": "https://github.com/navneetco0/indian-bank-account-validator#readme"
+}
